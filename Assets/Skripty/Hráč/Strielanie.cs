@@ -38,15 +38,16 @@ public class Strielanie : NetworkBehaviour
             // prehrá zvuk
             FindObjectOfType<AudioManager>().PrehratZvuk(zbranHraca.strielaciZvuk);
             // ak to, èo sme strelili je hráè, tak poškoï hráèa
-            if (rchit.collider.tag == "Player") CmdHracZastreleny(rchit.collider.name);
+            if (rchit.collider.tag == "Player") CmdHracZastreleny(rchit.collider.name, rchit.collider.tag == "Hlava");
         }
     }
 
     [Command]
-    void CmdHracZastreleny(string id) {
+    void CmdHracZastreleny(string id, bool headshot) {
         Debug.Log($"{id} bol zastrelený!");
 
         // poškodí hráèa
-        GameManager.GetPlayer(id).RpcPoskodSa(zbranHraca.poskodenie);
+        if (headshot) GameManager.GetPlayer(id).RpcPoskodSa(zbranHraca.headshotPoskodenie);
+        else GameManager.GetPlayer(id).RpcPoskodSa(zbranHraca.poskodenie);
     }
 }

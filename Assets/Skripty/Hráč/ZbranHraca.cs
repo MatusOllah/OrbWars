@@ -5,7 +5,10 @@ public class ZbranHraca
     public string meno = "Pištol";
 
     // poškodenie zbrane (ko¾ko životov ubiera zbraò?)
-    public int poskodenie = 10;
+    public int poskodenie = 5;
+
+    // poškodenie zbrane (headshot)
+    public int headshotPoskodenie = 10;
 
     // dosah zbrane
     public float dosah = 100f;
