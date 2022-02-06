@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1465435342853602829}
   - component: {fileID: 3624417276666991566}
   - component: {fileID: 554200327821454750}
+  - component: {fileID: 5109771136249976323}
   m_Layer: 6
   m_Name: MinimapKamera
   m_TagString: Untagged
@@ -87,7 +88,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ff613c3bc862f847902630f00904b90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncMode: 0
+  syncInterval: 0.1
   hrac: {fileID: 6976218962571887826}
+--- !u!114 &5109771136249976323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1231712836904381572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneId: 0
+  serverOnly: 0
+  visible: 0
+  m_AssetId: c4475d1c9f5a5f44d9e712653d284d34
+  hasSpawned: 0
 --- !u!1 &6976218962571887825
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,6 +281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncMode: 0
   syncInterval: 0.1
+  anim: {fileID: 6191000117383172085}
   walkingSpeed: 7.5
   runningSpeed: 12
   jumpSpeed: 8

@@ -2,6 +2,7 @@ using UnityEngine;
 using Mirror;
 
 [RequireComponent(typeof(CharacterController))]
+[RequireComponent(typeof(Animator))]
 public class PohybHraca : NetworkBehaviour
 {
     // nastavenia
@@ -19,6 +20,7 @@ public class PohybHraca : NetworkBehaviour
 
     public float lookXLimit = 75f;
 
+    Animator anim;
     CharacterController charCtrl;
     Vector3 moveDirection = Vector3.zero;
     float rotationX = 0f;
@@ -28,6 +30,7 @@ public class PohybHraca : NetworkBehaviour
 
     void Start()
     {
+        anim = GetComponent<Animator>();
         charCtrl = GetComponent<CharacterController>();
 
         // myö
@@ -62,6 +65,7 @@ public class PohybHraca : NetworkBehaviour
 
         // pohyb
         charCtrl.Move(moveDirection * Time.deltaTime);
+        anim.SetBool("isRunning", curSpeedX != 0 || curSpeedY != 0);
 
         // ot·Ëanie
         if (canMove) {
