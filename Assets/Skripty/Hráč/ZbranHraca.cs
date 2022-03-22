@@ -2,7 +2,7 @@
 public class ZbranHraca
 {
     // meno zbrane
-    public string meno = "Pištol";
+    public string meno = "Pišto¾";
 
     // poškodenie zbrane (ko¾ko životov ubiera zbraò?)
     public int poskodenie = 5;
