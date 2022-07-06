@@ -33,18 +33,23 @@ public class AudioManager : MonoBehaviour
             zvuk.src.outputAudioMixerGroup = zvuk.vystup;
         }
     }
+
+    public Zvuk NajistZvuk(string meno) {
+        // nájde zvuk
+        Zvuk zvuk = Array.Find(zvuky, zvuky => zvuky.meno == meno);
+        if (zvuk == null)
+        {
+            Debug.LogWarning($"Neznámy zvuk: {meno}");
+            return null;
+        }
+
+        return zvuk;
+    }
     
     // prehrá zvuk
     public void PrehratZvuk(string meno) {
-        // nájde zvuk...
-        Zvuk zvuk = Array.Find(zvuky, zvuky => zvuky.meno == meno);
-        if (zvuk == null) {
-            Debug.LogWarning($"Neznámy zvuk: {meno}");
-            return;
-        }
-
-        // ...a prehrá ho
+        // prehrá zvuk
         Debug.Log($"Zvuk: {meno}");
-        zvuk.src.Play();
+        NajistZvuk(meno).src.Play();
     }
 }
