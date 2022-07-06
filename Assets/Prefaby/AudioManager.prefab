@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -44,14 +45,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   zvuky:
-  - meno: Soundtrack
-    zvuk: {fileID: 8300000, guid: 61f5cfb523bc02247b19e2295f2f38c9, type: 3}
-    hlasitost: 1
-    vyska: 1
-    prostredie: 0
-    opakovat: 1
-    vystup: {fileID: 2809655686403432463, guid: f2807441129993b42a97e5c7fbbbf197, type: 2}
-    src: {fileID: 0}
   - meno: Klik
     zvuk: {fileID: 8300000, guid: 68f790dbfa1f84670a70b81bd91a98e1, type: 3}
     hlasitost: 1
@@ -75,4 +68,28 @@ MonoBehaviour:
     prostredie: 0.5
     opakovat: 0
     vystup: {fileID: 9126893228055559190, guid: f2807441129993b42a97e5c7fbbbf197, type: 2}
+    src: {fileID: 0}
+  - meno: InMenuIntro
+    zvuk: {fileID: 8300000, guid: 3a757d1520248874e965bc92433f97d9, type: 3}
+    hlasitost: 1
+    vyska: 1
+    prostredie: 0
+    opakovat: 0
+    vystup: {fileID: 2809655686403432463, guid: f2807441129993b42a97e5c7fbbbf197, type: 2}
+    src: {fileID: 0}
+  - meno: InMenuLoop
+    zvuk: {fileID: 8300000, guid: 0d9496f9f15068e48a93b0486a93eb14, type: 3}
+    hlasitost: 1
+    vyska: 1
+    prostredie: 0
+    opakovat: 1
+    vystup: {fileID: 2809655686403432463, guid: f2807441129993b42a97e5c7fbbbf197, type: 2}
+    src: {fileID: 0}
+  - meno: InGame
+    zvuk: {fileID: 8300000, guid: f988bafc0be947f4b833993b7c2c00aa, type: 3}
+    hlasitost: 1
+    vyska: 1
+    prostredie: 0
+    opakovat: 1
+    vystup: {fileID: 2809655686403432463, guid: f2807441129993b42a97e5c7fbbbf197, type: 2}
     src: {fileID: 0}

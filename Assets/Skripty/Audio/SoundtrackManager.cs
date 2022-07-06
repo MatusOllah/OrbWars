@@ -3,13 +3,30 @@ using UnityEngine.SceneManagement;
 
 public class SoundtrackManager : MonoBehaviour
 {
+    [HideInInspector]
+    public static SoundtrackManager instancia;
+
+    void Awake()
+    {
+        // nastavenie inštancie
+        if (instancia == null) instancia = this;
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        DontDestroyOnLoad(gameObject);
+    }
+
     void Start()
     {
         if (SceneManager.GetActiveScene().name == "HlavnéMenu") PlayInMenuSong();
-        else PlayInGameSong();
+        if (SceneManager.GetActiveScene().name == "Test") PlayInGameSong();
     }
 
-    void PlayInMenuSong() {
+    void PlayInMenuSong()
+    {
         FindObjectOfType<AudioManager>().NajistZvuk("InMenuIntro").src.Play();
         FindObjectOfType<AudioManager>().NajistZvuk("InMenuLoop").src.PlayDelayed(22.15f);
     }
