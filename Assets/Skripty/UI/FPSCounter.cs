@@ -14,16 +14,13 @@ public class FPSCounter : MonoBehaviour
     [SerializeField]
     private TMP_Text rttText;
 
-    // poèet fps
+    // poï¿½et fps
     private int fps;
 
     void Awake() {
         StartCoroutine(meratFPS());
         StartCoroutine(ukazatFPS());
-    }
-
-    void Update() {
-        rttText.text = $"{Math.Round(NetworkTime.rtt * 1000)} ms";
+        StartCoroutine(ukazatRTT());
     }
 
     IEnumerator meratFPS() {
@@ -38,6 +35,13 @@ public class FPSCounter : MonoBehaviour
             yield return new WaitForSeconds(1);
             fpsText.text = fps.ToString();
             fps = 0;
+        }
+    }
+
+    IEnumerator ukazatRTT() {
+        while (true) {
+            yield return new WaitForSeconds(1);
+            rttText.text = $"{Math.Round(NetworkTime.rtt * 1000)} ms";
         }
     }
 }
