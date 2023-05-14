@@ -8,7 +8,7 @@ public class SoundtrackManager : MonoBehaviour
 
     void Awake()
     {
-        // nastavenie inštancie
+        // nastavenie inï¿½tancie
         if (instancia == null) instancia = this;
         else
         {
@@ -21,14 +21,14 @@ public class SoundtrackManager : MonoBehaviour
 
     void Start()
     {
-        if (SceneManager.GetActiveScene().name == "HlavnéMenu") PlayInMenuSong();
+        if (SceneManager.GetActiveScene().name == "HlavneMenu") PlayInMenuSong();
         if (SceneManager.GetActiveScene().name == "Test") PlayInGameSong();
     }
 
     void PlayInMenuSong()
     {
         FindObjectOfType<AudioManager>().NajistZvuk("InMenuIntro").src.Play();
-        FindObjectOfType<AudioManager>().NajistZvuk("InMenuLoop").src.PlayDelayed(22.15f);
+        FindObjectOfType<AudioManager>().NajistZvuk("InMenuLoop").src.PlayDelayed(16.008f);
     }
 
     void PlayInGameSong() => FindObjectOfType<AudioManager>().NajistZvuk("InGame").src.Play();
