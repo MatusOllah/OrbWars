@@ -532,7 +532,7 @@ MonoBehaviour:
   - {fileID: 5169954930271604527}
   - {fileID: 6976218963100642393}
   - {fileID: 1804128501825950135}
-  uiPrefab: {fileID: 0}
+  uiPrefab: {fileID: 8636279063982761466, guid: b4aa2a3e1caf8cb4eb30cda418c2119a, type: 3}
 --- !u!114 &1804128501825950135
 MonoBehaviour:
   m_ObjectHideFlags: 0
