@@ -63,7 +63,7 @@ MonoBehaviour:
     src: {fileID: 0}
   - name: InGame
     sound: {fileID: 8300000, guid: 0c1513abfb323844e8f2f50abf70dfe6, type: 3}
-    volume: 1
+    volume: 0.75
     pitch: 1
     spatialBlend: 0
     loop: 1
