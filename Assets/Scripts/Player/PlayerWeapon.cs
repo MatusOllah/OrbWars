@@ -1,13 +1,14 @@
-[System.Serializable]
-public class PlayerWeapon
-{
-    public string name = "Pistol";
+namespace OrbWars.OWPlayer {
+    [System.Serializable]
+    public class PlayerWeapon {
+        public string name = "Glock";
 
-    public int damage = 5;
+        public int damage = 5;
 
-    public int headshotDamage = 10;
+        public int headshotDamage = 10;
 
-    public float range = 100f;
+        public float range = 100f;
 
-    public string onShootSound;
+        public string onShootSound;
+    }
 }

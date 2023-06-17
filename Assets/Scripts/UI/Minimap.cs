@@ -1,17 +1,18 @@
 using UnityEngine;
 using Mirror;
 
-public class Minimap : NetworkBehaviour
-{
-    public Transform player;
+namespace OrbWars.UI {
+    public class Minimap : NetworkBehaviour {
+        public Transform player;
 
-    void LateUpdate() {
-        if (!isLocalPlayer) return;
+        void LateUpdate() {
+            if (!isLocalPlayer) return;
 
-        Vector3 newPos = player.position;
-        newPos.y = transform.position.y;
-        transform.position = newPos;
+            Vector3 newPos = player.position;
+            newPos.y = transform.position.y;
+            transform.position = newPos;
 
-        transform.rotation = Quaternion.Euler(90f, player.eulerAngles.y, 0f);
+            transform.rotation = Quaternion.Euler(90f, player.eulerAngles.y, 0f);
+        }
     }
 }

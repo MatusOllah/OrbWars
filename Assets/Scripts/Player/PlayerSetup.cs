@@ -1,51 +1,53 @@
 using UnityEngine;
 using Mirror;
+using OrbWars;
 
-[RequireComponent(typeof(Player))]
-public class PlayerSetup : NetworkBehaviour
-{
-    [SerializeField]
-    Behaviour[] componentsToDisable;
+namespace OrbWars.OWPlayer {
+    [RequireComponent(typeof(Player))]
+    public class PlayerSetup : NetworkBehaviour {
+        [SerializeField]
+        Behaviour[] componentsToDisable;
 
-    [SerializeField]
-    GameObject uiPrefab;
+        [SerializeField]
+        GameObject uiPrefab;
 
-    private GameObject uiInstance;
+        private GameObject uiInstance;
 
-    void Start()
-    {
-        if (!isLocalPlayer) {
-            DisableComponents();
-            AssignRemoteLayer();
+        void Start()
+        {
+            if (!isLocalPlayer) {
+                DisableComponents();
+                AssignRemoteLayer();
+            }
+
+            RegisterPlayer();
+
+            // player setup
+            GetComponent<Player>().Setup();
+
+            // make UI
+            uiInstance = Instantiate(uiPrefab);
+            uiInstance.name = uiPrefab.name;
         }
 
-        RegisterPlayer();
+        void DisableComponents() {
+            foreach (Behaviour k in componentsToDisable) k.enabled = false;
+        }
 
-        // player setup
-        GetComponent<Player>().Setup();
+        void AssignRemoteLayer() => gameObject.layer = LayerMask.NameToLayer("RemotePlayer");
 
-        // make UI
-        uiInstance = Instantiate(uiPrefab);
-        uiInstance.name = uiPrefab.name;
-    }
+        void RegisterPlayer() => transform.name = $"Player {GetComponent<NetworkIdentity>().netId}";
 
-    void DisableComponents() {
-        foreach (Behaviour k in componentsToDisable) k.enabled = false;
-    }
+        public override void OnStartClient() {
+            base.OnStartClient();
 
-    void AssignRemoteLayer() => gameObject.layer = LayerMask.NameToLayer("RemotePlayer");
+            GameManager.RegisterPlayer(GetComponent<NetworkIdentity>().netId.ToString(), GetComponent<Player>());
+        }
 
-    void RegisterPlayer() => transform.name = $"Player {GetComponent<NetworkIdentity>().netId}";
+        void OnDisable() {
+            Destroy(uiInstance);
 
-    public override void OnStartClient() {
-        base.OnStartClient();
-
-        GameManager.RegisterPlayer(GetComponent<NetworkIdentity>().netId.ToString(), GetComponent<Player>());
-    }
-
-    void OnDisable() {
-        Destroy(uiInstance);
-
-        GameManager.UnregisterPlayer(transform.name);
+            GameManager.UnregisterPlayer(transform.name);
+        }
     }
 }
