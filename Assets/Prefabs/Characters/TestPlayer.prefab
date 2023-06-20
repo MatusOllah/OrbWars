@@ -582,7 +582,7 @@ MonoBehaviour:
   gravity: 20
   playerCamera: {fileID: 6976218963100642393}
   lookSpeed: 2
-  lookXLimit: 75
+  lookXLimit: 50
   canMove: 1
 --- !u!143 &6976218962571887828
 CharacterController:
