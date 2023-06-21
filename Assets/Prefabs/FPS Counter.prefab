@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6572988153798168112}
   - component: {fileID: 4699545898028314365}
   m_Layer: 5
-  m_Name: "N\xE1pis"
+  m_Name: Label
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -550,7 +550,7 @@ GameObject:
   - component: {fileID: 654659032861578586}
   - component: {fileID: 1410484085084214215}
   m_Layer: 5
-  m_Name: "N\xE1pis"
+  m_Name: Label
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
