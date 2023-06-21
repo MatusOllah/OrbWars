@@ -29,13 +29,7 @@ AudioMixerController:
   m_SuspendThreshold: -80
   m_EnableSuspend: 1
   m_UpdateMode: 0
-  m_ExposedParameters:
-  - guid: e0e179ca4f7075e44a6af4100d32c8c6
-    name: HlasitostHudby
-  - guid: e7d845dc7ed777e4aa3459cee73e6c9b
-    name: Hlasitost
-  - guid: 8f373b175d6db3e4b847d16de38529e3
-    name: HlasitostZvukov
+  m_ExposedParameters: []
   m_AudioMixerGroupViews:
   - guids:
     - ee5fd3ae76ae23c4faf6e2a29e78d108
