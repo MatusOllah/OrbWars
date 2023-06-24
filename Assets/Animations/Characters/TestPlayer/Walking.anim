@@ -47,7 +47,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -63,7 +63,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -79,7 +79,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -113,7 +113,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -129,7 +129,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -145,7 +145,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -197,7 +197,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -249,7 +249,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -301,7 +301,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -353,7 +353,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -405,7 +405,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -457,7 +457,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -473,7 +473,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -489,7 +489,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -505,7 +505,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -521,7 +521,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -537,7 +537,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -553,7 +553,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -569,7 +569,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -585,7 +585,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -601,7 +601,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -617,7 +617,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -633,7 +633,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -649,7 +649,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -665,7 +665,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -681,7 +681,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -697,7 +697,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -713,7 +713,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -729,7 +729,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -745,7 +745,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -761,7 +761,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -777,7 +777,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -793,7 +793,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -809,7 +809,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -825,7 +825,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -841,7 +841,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -857,7 +857,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -873,7 +873,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -889,7 +889,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -905,7 +905,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -921,7 +921,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
   m_PositionCurves: []
   m_ScaleCurves: []
   m_FloatCurves: []
@@ -1276,7 +1276,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1313,7 +1313,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1350,7 +1350,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1369,7 +1369,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1388,7 +1388,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1407,7 +1407,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1426,7 +1426,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1445,7 +1445,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1464,7 +1464,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1501,7 +1501,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1538,7 +1538,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1575,7 +1575,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1594,7 +1594,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1613,7 +1613,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1632,7 +1632,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1651,7 +1651,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1670,7 +1670,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1689,7 +1689,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1744,7 +1744,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1799,7 +1799,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1854,7 +1854,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1909,7 +1909,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1964,7 +1964,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2019,7 +2019,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2074,7 +2074,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2129,7 +2129,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2184,7 +2184,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2239,7 +2239,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2294,7 +2294,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2349,7 +2349,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2404,7 +2404,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2459,7 +2459,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2514,7 +2514,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2569,7 +2569,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2624,7 +2624,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2679,7 +2679,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2698,7 +2698,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2717,7 +2717,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2736,7 +2736,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2755,7 +2755,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2774,7 +2774,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2793,7 +2793,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2812,7 +2812,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2831,7 +2831,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2850,7 +2850,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2869,7 +2869,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2888,7 +2888,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2907,7 +2907,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2926,7 +2926,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2945,7 +2945,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2964,7 +2964,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2983,7 +2983,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3002,7 +3002,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3021,7 +3021,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3040,7 +3040,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3059,7 +3059,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3078,7 +3078,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3097,7 +3097,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3116,7 +3116,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3135,7 +3135,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3154,7 +3154,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3173,7 +3173,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3192,7 +3192,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3211,7 +3211,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3230,7 +3230,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3249,7 +3249,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3268,7 +3268,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3287,7 +3287,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3306,7 +3306,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3325,7 +3325,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3344,7 +3344,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3363,7 +3363,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3382,7 +3382,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3401,7 +3401,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3420,7 +3420,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3439,7 +3439,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3458,7 +3458,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3477,7 +3477,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3496,7 +3496,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3515,7 +3515,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3534,7 +3534,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3553,7 +3553,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3572,7 +3572,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3591,7 +3591,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3610,7 +3610,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3629,7 +3629,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3648,7 +3648,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3667,7 +3667,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3686,7 +3686,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3705,7 +3705,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3724,7 +3724,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3743,7 +3743,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3762,7 +3762,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3781,7 +3781,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3800,7 +3800,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3819,7 +3819,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3838,7 +3838,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3857,7 +3857,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3876,7 +3876,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3895,7 +3895,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3914,7 +3914,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3933,7 +3933,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3952,7 +3952,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3971,7 +3971,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -3990,7 +3990,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4009,7 +4009,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4028,7 +4028,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4047,7 +4047,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4066,7 +4066,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4085,7 +4085,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4104,7 +4104,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4123,7 +4123,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4142,7 +4142,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4161,7 +4161,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4180,7 +4180,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4199,7 +4199,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4218,7 +4218,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4237,7 +4237,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4256,7 +4256,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4275,7 +4275,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4294,7 +4294,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4313,7 +4313,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4332,7 +4332,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -4343,7 +4343,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4353,7 +4353,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4363,7 +4363,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4373,7 +4373,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4383,7 +4383,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4393,7 +4393,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4403,7 +4403,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4413,7 +4413,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4423,7 +4423,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4433,7 +4433,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4443,7 +4443,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4453,7 +4453,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4463,7 +4463,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4473,7 +4473,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4483,7 +4483,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4493,7 +4493,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4503,7 +4503,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4513,7 +4513,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4523,7 +4523,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4533,7 +4533,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4543,7 +4543,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L/foot.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4553,7 +4553,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4563,7 +4563,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4573,7 +4573,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4583,7 +4583,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4593,7 +4593,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4603,7 +4603,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4613,7 +4613,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4623,7 +4623,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4633,7 +4633,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4643,7 +4643,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4653,7 +4653,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4663,7 +4663,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.L/lowerleg.L"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.L/lowerleg.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4673,7 +4673,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4683,7 +4683,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4693,7 +4693,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
+    path: "Graphics/TestPlayer/Armature/wiest/upperleg.R/lowerleg.R/foot.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4703,7 +4703,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4713,7 +4713,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4723,7 +4723,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4733,7 +4733,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4743,7 +4743,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4753,7 +4753,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4763,7 +4763,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4773,7 +4773,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4783,7 +4783,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/tooseup.L/toosemid.L/lowertoose.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4793,7 +4793,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4803,7 +4803,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4813,7 +4813,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4823,7 +4823,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4833,7 +4833,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4843,7 +4843,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4853,7 +4853,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4863,7 +4863,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4873,7 +4873,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger.L/midfinger.L/lowerfinger.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4883,7 +4883,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4893,7 +4893,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4903,7 +4903,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4913,7 +4913,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4923,7 +4923,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4933,7 +4933,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4943,7 +4943,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4953,7 +4953,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4963,7 +4963,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger2.L/midfinger2.L/lowerfinger2.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4973,7 +4973,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4983,7 +4983,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -4993,7 +4993,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5003,7 +5003,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5013,7 +5013,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5023,7 +5023,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5033,7 +5033,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5043,7 +5043,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5053,7 +5053,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger3.L/midfinger3.L/lowerfinger3.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5063,7 +5063,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5073,7 +5073,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5083,7 +5083,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5093,7 +5093,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5103,7 +5103,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5113,7 +5113,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5123,7 +5123,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5133,7 +5133,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5143,7 +5143,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.L/upperarm.L/lowerarm.L/hand.L/upfinger4.L/midfinger4.L/lowerfinger4.L"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5153,7 +5153,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5163,7 +5163,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5173,7 +5173,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5183,7 +5183,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5193,7 +5193,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5203,7 +5203,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5213,7 +5213,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5223,7 +5223,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5233,7 +5233,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/tooseup.R/toosemid.R/lowertoose.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5243,7 +5243,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5253,7 +5253,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5263,7 +5263,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5273,7 +5273,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5283,7 +5283,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5293,7 +5293,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5303,7 +5303,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5313,7 +5313,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5323,7 +5323,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger.R/midfinger.R/lowerfinger.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5333,7 +5333,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5343,7 +5343,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5353,7 +5353,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5363,7 +5363,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5373,7 +5373,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5383,7 +5383,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5393,7 +5393,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5403,7 +5403,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5413,7 +5413,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger2.R/midfinger2.R/lowerfinger2.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5423,7 +5423,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5433,7 +5433,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5443,7 +5443,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5453,7 +5453,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5463,7 +5463,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5473,7 +5473,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5483,7 +5483,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5493,7 +5493,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5503,7 +5503,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger3.R/midfinger3.R/lowerfinger3.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5513,7 +5513,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5523,7 +5523,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5533,7 +5533,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5543,7 +5543,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5553,7 +5553,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -5563,7 +5563,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "Grafika/TestHr\xE1\u010D/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
+    path: "Graphics/TestPlayer/Armature/wiest/hip/chest/KTF.R/upperarm.R/lowerarm.R/hand.R/upfinger4.R/midfinger4.R/lowerfinger4.R"
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
