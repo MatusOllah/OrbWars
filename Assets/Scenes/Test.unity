@@ -275,7 +275,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: d337e5f1ca8da5e42a0dd518d831a7b7, type: 2}
     - target: {fileID: 919132149155446097, guid: 548a5113056a4c04da5f61dcae744e78, type: 3}
       propertyPath: m_Name
-      value: "Kame\u01481"
+      value: Rock1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 548a5113056a4c04da5f61dcae744e78, type: 3}
@@ -435,7 +435,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: d337e5f1ca8da5e42a0dd518d831a7b7, type: 2}
     - target: {fileID: 919132149155446097, guid: bc7c308e83200b24cb7709c326a9d315, type: 3}
       propertyPath: m_Name
-      value: "Kame\u01482"
+      value: Rock2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc7c308e83200b24cb7709c326a9d315, type: 3}
@@ -566,7 +566,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: d337e5f1ca8da5e42a0dd518d831a7b7, type: 2}
     - target: {fileID: 919132149155446097, guid: 8fe38e1f883ae39419db15ee4c8dade3, type: 3}
       propertyPath: m_Name
-      value: "Kame\u01484"
+      value: Rock4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fe38e1f883ae39419db15ee4c8dade3, type: 3}
@@ -686,7 +686,7 @@ GameObject:
   - component: {fileID: 1431445934}
   - component: {fileID: 1431445933}
   m_Layer: 0
-  m_Name: Budova2
+  m_Name: Building2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -783,7 +783,7 @@ GameObject:
   - component: {fileID: 1655279258}
   - component: {fileID: 1655279257}
   m_Layer: 0
-  m_Name: Budova1
+  m_Name: Building1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1043,7 +1043,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: d337e5f1ca8da5e42a0dd518d831a7b7, type: 2}
     - target: {fileID: 919132149155446097, guid: 7218127b899133c4ab2df641cec68e4a, type: 3}
       propertyPath: m_Name
-      value: "Kame\u01483"
+      value: Rock3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7218127b899133c4ab2df641cec68e4a, type: 3}
