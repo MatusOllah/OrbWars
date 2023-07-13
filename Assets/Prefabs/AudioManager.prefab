@@ -78,7 +78,7 @@ MonoBehaviour:
     output: {fileID: 9126893228055559190, guid: f2807441129993b42a97e5c7fbbbf197, type: 2}
     src: {fileID: 0}
   - name: TestShoot
-    sound: {fileID: 8300000, guid: e65baae829a9c7549b0983cd63f1eb79, type: 3}
+    sound: {fileID: 8300000, guid: 6d1dd04319fcf6440bcd25e0ed5626b9, type: 3}
     volume: 1
     pitch: 1
     spatialBlend: 0
